@@ -1,0 +1,12 @@
+.body {
+    background-color: aliceblue;
+    margin: auto;
+    flex: auto;
+    flex-direction: column;
+    padding: 0%;
+    height: 0%;
+    width: 0%;
+}
+.column {
+    background-color: antiquewhite;
+}
