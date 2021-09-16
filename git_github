@@ -1,0 +1,30 @@
+echo "# heading-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lellowgill/heading-.git
+git push -u origin main
+
+mkdir name_of_directory of your choosen
+cd into directory of name
+(touch name.html or name.py name.css)
+open the file you want to work on. 
+save the your work
+GIT status 
+git branch
+Create a new branch to work on by GIT Branch name_of_branch
+GIT Checkout name_of_branch
+touch name.html or name.py name.css
+open the file you wish to work on.
+save work
+GIT Status to see the uncommited files
+Git Branch to see you what branch you are on. 
+GIT LOG
+GIT log --oneline to see your commits
+Git push 
+On GitHub you accept the pull request
+git merge main
+git pull 
+
+
